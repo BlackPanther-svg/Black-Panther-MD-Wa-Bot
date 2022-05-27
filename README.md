@@ -1,9 +1,7 @@
 ## Thanks for Everything 
-
 ## ᗷᒪᗩᑕK ᴩᴀɴᴛʜᴇʀ Whatsapp Bot
 
 <a href="https://github.com/BlackPanther-svg/Black-Panther-v1.0.0"><img src="https://i.ibb.co/yQBM4yx/wp1869937.png" alt="google-font" border="0"></a>
-
 <div align="center">
 
  ## Setup
@@ -19,7 +17,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/Black-Panther-v1.0.0)
 
 ## How to Deploy Fix
-
  1. Click [SCAN](https://replit.com/@BlackPanther-sv/Black-Panther-QR) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 
 2. You will get a long text that needs after 4th step BLACK_PANTHER_QR_CODE).
@@ -35,3 +32,22 @@
 https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/Black-Panther-v1.0.0
 
 ``` 
+
+6. Now change  with your
+
+ github username and click ENJOY<br>
+
+   <br>
+ 
+# Official Group
+
+- [Join Oficial Whatsapp Group](https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP)
+
+# Contact Me
+
+-[Whatsapp](https://wa.me/94741671668?text_Hi🤟)
+
+## Special Thanks
+ `@Dasun,@Dinuja,@Dilshan,@Anjana,@Srinath sir,@vimukthi...` 
+
+ 
