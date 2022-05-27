@@ -1,5 +1,5 @@
 ## Thanks for Everything 
-## ᗷᒪᗩᑕK ᴩᴀɴᴛʜᴇʀ Whatsapp Bot
+<h1>ᗷᒪᗩᑕK ᴩᴀɴᴛʜᴇʀ multi device Whatsapp Bot</h1>
 
 <a href="https://github.com/BlackPanther-svg/Black-Panther-v1.0.0"><img src="https://i.ibb.co/yQBM4yx/wp1869937.png" alt="google-font" border="0"></a>
 <div align="center">
